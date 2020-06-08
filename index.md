@@ -1,3 +1,10 @@
+
+
+
+https://bremerwindsurfingclub.github.io/BWC-Webseite-2020-06/
+
+Theme: https://github.com/pages-themes/architect
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BremerWindsurfingClub/BWC-Webseite-2020-06/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
