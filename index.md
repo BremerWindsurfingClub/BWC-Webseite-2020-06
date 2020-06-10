@@ -4,6 +4,7 @@
 https://bremerwindsurfingclub.github.io/BWC-Webseite-2020-06/
 
 Theme: https://github.com/pages-themes/architect
+Theme: http://jekyllthemes.org/themes/Jalpc-jekyll-theme/
 
 ## Welcome to GitHub Pages
 
